@@ -7,7 +7,7 @@
 4) [**Аксеновский Максим**](https://github.com/Solitum26) - ML
 5) [**Замышевская Арина**](https://github.com/Nimbleredsquirrel) - ML
 
-Презентация: [тык]([https://drive.google.com/file/d/1-L61ooSwS0bSlZIfT1Uk5YO9XHGkVnjc/view?usp=sharing](https://drive.google.com/file/d/1p4A90Y_R6PV37gxTNAbRplEIIKardNAd/view?usp=sharing))
+Презентация: [тык](https://drive.google.com/file/d/1p4A90Y_R6PV37gxTNAbRplEIIKardNAd/view?usp=drive_link)
 
 ## Описание решения 
 
